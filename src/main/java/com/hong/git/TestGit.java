@@ -6,7 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		System.out.println("hahah");
 		
-		
+		System.out.println("testclone edit");
 	}
 
 }
