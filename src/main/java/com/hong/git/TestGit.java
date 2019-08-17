@@ -7,6 +7,7 @@ public class TestGit {
 		System.out.println("hahah");
 		
 		System.out.println("testGit edit");
+		System.out.println("testclone edit");
 	}
 
 }
